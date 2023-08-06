@@ -1,4 +1,6 @@
-# [Мой Сертификат ](https://github.com/Mehman1995/ru.sber/files/12270253/cert_c2Jlcl9qYXZhNjE3NjMz.2.pdf)
+ ![cert_c2Jlcl9qYXZhNjE3NjMz 2 jpg_page-0001](https://github.com/Mehman1995/ru.sber/assets/87534806/bcd7bd03-8e26-498c-8273-bcae37328d9e)
+
+
 
 # Проект по загрузке и обработке справочника городов России
 
